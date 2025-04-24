@@ -1,7 +1,6 @@
-### Audit trail
+# Audit trail
 
-
-The tab contains settings that allow you to define the timespan beyond which the data logs will automatically be deleted.
+The tab contains settings that allow you to define the timespan beyond which the data logs will automatically be deleted. Test
 
 You can define the log deletion time span for Customer logs, Operator logs, and System logs.
 
